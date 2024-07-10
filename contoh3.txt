@@ -1,0 +1,5 @@
+Employees never reviewed:
+- Soley, Nancy
+- Widjaja, Keith
+- Smalls, Kelly
+- Nguyen, Frank
